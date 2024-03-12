@@ -1,8 +1,7 @@
-<table>
-  <tr>
-    <td style="text-align: center;"><img src="https://bit.ly/3wY7igM" width="200"><br>my name is Aidas</td>
-  </tr>
-</table>
+<p>
+  <img src="https://bit.ly/3wY7igM" width="200" style="display: inline; vertical-align: middle;" alt="Waving Hand"> my name is Aidas
+</p>
+
 
 
 
