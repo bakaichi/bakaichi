@@ -1,9 +1,7 @@
-<table>
-  <tr>
-    <td><img src="https://bit.ly/3wY7igM" width="100"></td>
-    <td>Your text here right next to the image.</td>
-  </tr>
-</table>
+<p>
+  <img src="https://bit.ly/3wY7igM" width="20" style="vertical-align: middle;"> 
+  Here is some text right after the waving hand image, aligned inline without extra boxes.
+</p>
 
 
 
