@@ -1,6 +1,6 @@
-### <img src="https://bit.ly/3wY7igM" width="100">
+### <img src="https://bit.ly/3wY7igM" width="150">
 
-👋
+
 
 <!--
 **bakaichi/bakaichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
