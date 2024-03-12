@@ -1,4 +1,5 @@
-### Hi there ![Waving Hand](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+### <img src="https://bit.ly/3wY7igM" width="100">
+
 👋
 
 <!--
