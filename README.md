@@ -1,4 +1,4 @@
-### Hi there ![Waving Hand]([https://bit.ly/3wY7igM](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif))
+### Hi there ![Waving Hand]([https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif])
 👋
 
 <!--
