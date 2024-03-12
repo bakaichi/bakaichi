@@ -1,6 +1,7 @@
-<p>
-  <img src="https://bit.ly/3wY7igM" width="200" style="display: inline; vertical-align: baseline;" alt="Waving Hand"> my name is Aidas
-</p>
+  <tr>
+    <td><img src="https://bit.ly/3wY7igM" width="200"></td>
+    <td><strong style="font-size: 24px;">my name is Aidas</strong></td>   
+  </tr>
 
 
 
