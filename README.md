@@ -1,4 +1,10 @@
-####  <img src="https://bit.ly/3wY7igM" width="120" height="120"> My name is Aidas
+<table>
+  <tr>
+    <td><img src="https://bit.ly/3wY7igM" width="100"></td>
+    <td>Your text here right next to the image.</td>
+  </tr>
+</table>
+
 
 
 
