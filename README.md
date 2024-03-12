@@ -1,11 +1,11 @@
   <tr>
     <td><img src="https://bit.ly/3wY7igM" width="200"></td>
   </tr>
-##my name is Aidas
+## my name is Aidas
 
 
 
-# About 
+## About 
 -**Who am I?**: a software developer with a keen interest in both backend and frontend. 
 
 -**Technologies?**: experience includes Java, Javascript, Node .js and Python.
