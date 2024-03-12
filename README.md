@@ -2,6 +2,8 @@
 
 **my name is Aidas**
 
+
+
 ## About
 - **Who am I?**: I'm a software developer with a keen interest in both backend and frontend development.
 - **Technologies?**: My experience includes Java, JavaScript, Node.js, and Python.
