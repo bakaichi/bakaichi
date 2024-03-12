@@ -1,7 +1,9 @@
-<p>
-  <img src="https://bit.ly/3wY7igM" width="50" height="50" style="vertical-align: middle;"> 
-  Here is some text right after the waving hand image, aligned inline without extra boxes.
-</p>
+<table>
+  <tr>
+    <td><img src="https://bit.ly/3wY7igM" width="100"></td>
+    <td>my name is Aidas</td>
+  </tr>
+</table>
 
 
 
