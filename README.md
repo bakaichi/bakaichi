@@ -1,5 +1,9 @@
-<p><img src="https://bit.ly/3wY7igM" width="150" style="vertical-align:middle;"> my name is Aidas.</p>
-
+<table>
+  <tr>
+    <td valign="middle"><img src="https://bit.ly/3wY7igM" width="100"></td>
+    <td valign="middle">Your text here, vertically centered with the image.</td>
+  </tr>
+</table>
 
 
 
