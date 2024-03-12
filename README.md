@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td><img src="https://bit.ly/3wY7igM" width="100"></td>
-    <td>Your text here right next to the image.</td>
+    <td><img src="https://bit.ly/3wY7igM" width="150"></td>
+    <td>my name is Aidas. I am currently studying for a Higher Diploma in Computer Science.</td>
   </tr>
 </table>
 
