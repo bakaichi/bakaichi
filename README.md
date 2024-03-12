@@ -1,5 +1,5 @@
 <p>
-  <img src="https://bit.ly/3wY7igM" width="20" style="vertical-align: middle;"> 
+  <img src="https://bit.ly/3wY7igM" width="50" style="vertical-align: middle;"> 
   Here is some text right after the waving hand image, aligned inline without extra boxes.
 </p>
 
