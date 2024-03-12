@@ -1,7 +1,6 @@
 <table>
   <tr>
     <td><img src="https://bit.ly/3wY7igM" width="200">my name is Aidas<</td>
-    <td><strong style="font-size: 40px;">my name is Aidas</strong></td>   
   </tr>
 </table>
 
