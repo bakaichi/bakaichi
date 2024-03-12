@@ -1,5 +1,5 @@
 <p>
-  <img src="https://bit.ly/3wY7igM" width="200" style="display: inline; vertical-align: top;" alt="Waving Hand"> my name is Aidas
+  <img src="https://bit.ly/3wY7igM" width="200" style="display: inline; vertical-align: baseline;" alt="Waving Hand"> my name is Aidas
 </p>
 
 
