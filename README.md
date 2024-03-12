@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ![Waving Hand](https://bit.ly/3wY7igM)
+👋
 
 <!--
 **bakaichi/bakaichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
