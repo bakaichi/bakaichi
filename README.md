@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td><img src="https://bit.ly/3wY7igM" width="200"></td>
-##    <td>my name is Aidas</td>
+      <td>my name is Aidas</td>
   </tr>
 </table>
 
