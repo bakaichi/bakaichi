@@ -1,9 +1,10 @@
 <table>
   <tr>
     <td><img src="https://bit.ly/3wY7igM" width="200"></td>
-    <td><strong>my name is Aidas</strong></td>   
+    <td><strong style="font-size: 24px;">my name is Aidas</strong></td>   
   </tr>
 </table>
+
 
 # About 
 -**Who am I?**: a software developer with a keen interest in both backend and frontend. 
