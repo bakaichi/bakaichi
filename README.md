@@ -1,6 +1,6 @@
 <img src="https://bit.ly/3wY7igM" width="200">
 
-**My name is Aidas**
+**my name is Aidas**
 
 ## About
 - **Who am I?**: I'm a software developer with a keen interest in both backend and frontend development.
