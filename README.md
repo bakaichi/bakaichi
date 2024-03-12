@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td valign="middle"><img src="https://bit.ly/3wY7igM" width="100"></td>
-    <td valign="middle">Your text here, vertically centered with the image.</td>
+    <td><img src="https://bit.ly/3wY7igM" width="100"></td>
+    <td>Your text here right next to the image.</td>
   </tr>
 </table>
 
