@@ -7,6 +7,7 @@
 
 # About 
 -**Who am I?**: a software developer with a keen interest in both backend and frontend. 
+
 -**Technologies?**: experience includes Java, Javascript, Node .js and Python.
 
 
