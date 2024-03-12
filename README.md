@@ -1,8 +1,5 @@
-<table>
-  <tr>
-    <td><img src="https://bit.ly/3wY7igM" width="150">my name is Aidas.</td>
-  </tr>
-</table>
+<p><img src="https://bit.ly/3wY7igM" width="20" style="vertical-align:middle;"> my name is Aidas.</p>
+
 
 
 
