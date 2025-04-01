@@ -7,7 +7,7 @@
 
 
 ## About
-- **Who am I?**: I'm a software developer with a keen interest in both backend and frontend development.
+- **Who am I?**: I'm a software developer with a keen interest in Fullstack, Artificial Intelligence and Frontend Web development.
 - **Technologies?**: Majority of my experience includes Java, JavaScript, Node.js, and Python.
 
 
