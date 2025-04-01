@@ -11,7 +11,7 @@
 - **Technologies?**: Majority of my experience includes Java, JavaScript, Node.js, and Python.
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakaichi)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **bakaichi/bakaichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
